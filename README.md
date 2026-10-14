@@ -1,56 +1,78 @@
 # Infosys Ltd. — Financial Performance Analysis (FY2014–FY2025)
 
-A Microsoft Excel portfolio project analyzing Infosys Ltd.'s long-term financial performance across FY2014–FY2025. The workbook combines financial statements, ratio calculations, performance analysis, and an executive dashboard to help interpret revenue, profitability, cash generation, efficiency, liquidity, and solvency trends.
+A Microsoft Excel portfolio project analyzing Infosys Ltd.'s long-term financial performance across FY2014–FY2025. The workbook combines financial statements, ratio calculations, dedicated performance-analysis sheets, and a KPI dashboard to communicate trends in revenue, profitability, cash generation, efficiency, liquidity, and solvency.
 
-## Project Overview
+## Project Snapshot
 
-- **Company:** Infosys Ltd.
-- **Industry:** IT services / technology services
-- **Analysis period:** FY2014–FY2025
-- **Reporting unit:** ₹ crore, unless stated otherwise
-- **Tool:** Microsoft Excel
-- **Deliverable:** A multi-sheet financial analysis workbook with a dashboard
+| Attribute | Details |
+|---|---|
+| Company | Infosys Ltd. |
+| Industry | IT Services / Technology Services |
+| Analysis period | FY2014–FY2025 |
+| Reporting unit | ₹ crore, unless otherwise stated |
+| Primary tool | Microsoft Excel |
+| Workbook structure | 12 worksheets, including dashboard and supporting analysis |
 
-## Workbook Contents
+## Project Objective
 
-The workbook includes 12 sheets:
+Evaluate Infosys' historical financial performance and financial position over a 12-year period. The workbook brings together statement-level data, financial ratios, and focused analyses to support trend identification and structured interpretation of the company's operating and financial profile.
 
-1. **Project Overview** — project profile, analytical scope, and navigation.
+## Analysis Covered
+
+- **Financial statements:** Profit & Loss, Balance Sheet, and Cash Flow Statement
+- **Growth and profitability:** Revenue and profit trends, growth rates, and profitability measures
+- **Cash generation:** Operating, investing, and financing cash-flow movements
+- **Efficiency and working capital:** Asset utilisation and working-capital indicators
+- **Liquidity and solvency:** Short-term financial strength, leverage, and capital structure measures
+- **Dashboard:** Headline KPIs and a visual summary of selected performance indicators
+- **Conclusions:** Summary observations based on the analysis included in the workbook
+
+## Workbook Guide
+
+The supplied Excel workbook contains these 12 sheets:
+
+1. **Project Overview** — project profile, scope, and navigation.
 2. **Name & Details** — project metadata and creator details.
 3. **OBJECTIVE & METHODOLOGY** — objective, scope, data basis, and analytical approach.
 4. **Profit & Loss** — annual income-statement data.
 5. **Cash Flow Statement** — cash flows across operating, investing, and financing activities.
 6. **Balance sheet** — annual financial-position data.
 7. **Ratios Cal & Analysis** — ratio calculations and year-by-year analysis.
-8. **Dashboard** — headline KPIs and visual summary of performance.
+8. **Dashboard** — headline KPIs and visual performance summary.
 9. **Profitability Analysis** — profitability trends and related indicators.
 10. **Efficiency & Working Capital An** — operating efficiency and working-capital metrics.
 11. **Liquidity & Solvency Analysis** — liquidity, leverage, and solvency indicators.
 12. **Investment & Financial Conclusi** — concluding observations and financial interpretation.
 
-## Analytical Focus
+## Tools & Skills Demonstrated
 
-- Revenue and profit trends across the 12-year period
-- Profitability and margin analysis
-- Cash-flow generation and movement
-- Balance-sheet composition and financial position
-- Financial ratios, including liquidity and solvency measures
-- Efficiency and working-capital indicators
-- Dashboard-based communication of key findings
+- Microsoft Excel and formula-driven analysis
+- Financial statement analysis
+- Financial ratio analysis
+- Profitability and cash-flow analysis
+- Working-capital and efficiency analysis
+- Dashboard design and KPI communication
+- Long-term financial trend interpretation
 
-## How to Use
+## How to Explore the Workbook
 
-1. Download `Infosys_Financial_Performance_Analysis_FY2014_FY2025.xlsx`.
-2. Open it in Microsoft Excel for the intended workbook layout, formulas, and dashboard visuals.
-3. Start with **Project Overview** and **Dashboard**, then review the statements and analysis sheets for supporting calculations.
+1. Open **Project Overview** for context and scope.
+2. Review **Dashboard** for a high-level view of key indicators.
+3. Consult the three financial statements for underlying figures.
+4. Compare the ratio, profitability, efficiency, liquidity, and solvency sheets to understand the detailed analysis.
+5. Read the conclusions sheet for the project's interpretation of the results.
 
-## Data & Interpretation Notes
+## Data, Source, and Important Notes
 
-This workbook is an independent portfolio and learning project, not an official publication by Infosys. Figures and conclusions should be interpreted in the context of the financial data included in the workbook. Please verify the original company annual reports and relevant notes before relying on figures for external reporting or investment decisions. This analysis is for educational purposes and is not investment advice.
+This is an independent portfolio and learning project, not an official publication by Infosys. The workbook identifies audited financial statements and annual reports as the data basis. For formal use, please cross-check the figures against the original Infosys annual reports and their notes. Historical analysis does not guarantee future performance, and this project is not investment advice.
 
 ## Project File
 
-- `Infosys_Financial_Performance_Analysis_FY2014_FY2025.xlsx` — complete Excel workbook.
+The intended workbook filename is:
+
+`Infosys_Financial_Performance_Analysis_FY2014_FY2025.xlsx`
+
+> **Repository status:** The README and project documentation are published. The Excel workbook binary still needs to be added to this repository before it can be downloaded directly from GitHub.
 
 ---
 **Prepared by:** Ayush Nitin Jagtap  
